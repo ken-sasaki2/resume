@@ -13,24 +13,23 @@
     - Widgetの開発経験
     - watchアプリの開発経験
     - XCTestを使ったテストの経験
-    - Firebase/Firestoreを用いたデータ管理の経験
-    - Firebase/AnalyticsやAppsFlyerを用いたデータ管理の経験
+    - Firebase/Firestoreを用いたユーザーデータ管理の経験
+    - Firebase/AnalyticsやAppsFlyerを用いたアナリティクス管理の経験
+    - Firebase/Crachlyticsを用いたクラッシュ状況管理の経験
     - CocoaPods、Swift Package Managerを用いたライブラリ管理の経験
     - SwiftLintを用いたコード管理の経験
+    - OS純正ライブラリへの理解
     - AppStoreへのリリース経験
 - その他
   - Bitriseを用いたCI/CD環境の構築およびメンテナンス
   - GitHubを用いた開発プロジェクトの管理
   - 開発チーム全体のサポート
   - 障害対応におけるリーダーシップ
+  - 1000万ダウンロードを超えるアプリの運用経験
   - GitHubやSlackを用いたスムーズな非同期コミュニケーション
   
 
 ## 職務経歴
-  
-  
-
-## 職務詳細
 
 
 ## 職務要約
@@ -40,9 +39,9 @@
 
 
 ## SNS
-- GitHub: https://github.com/ken-sasaki2
 - Qiita: https://qiita.com/ken_sasaki2
 - Twitter: https://twitter.com/ken_sasaki2
+- GitHub: https://github.com/ken-sasaki2
 
 
 ## 保有資格
