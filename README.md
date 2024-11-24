@@ -10,15 +10,15 @@
     - 外部ライブラリを使用せずに複雑なUIを開発した経験
     - Objective-CからSwiftへ0から書き換えた経験
     - Widgetの開発経験
-    - watchアプリの開発経験
+    - Watchアプリの開発経験
     - XCTestを使ったユニットテストの経験
     - Firebase/Firestoreを用いたユーザーデータ管理の経験
     - Firebase/Analyticsを用いたアナリティクスの可観測性を高めた経験
     - Firebase/Crashlyticsを用いたクラッシュ状況の可観測性を高めた経験
     - Firebase/Performanceを用いたユーザー動向の可観測性を高めた経験
+    - AWS Cognito/Amplifyを用いたログイン機能の開発経験
     - SkyWay（WebRTC）を用いた通話機能の開発経験
     - CallKit/PushKitを用いた通話機能の開発経験
-    - AWS Cognito/Amplifyを用いたログイン機能の開発経験
     - CocoaPods、Swift Package Managerを用いたライブラリ管理の経験
     - Alamofireを用いたAPI通信の経験
     - iOS標準ライブラリを用いたAPI通信の経験
@@ -31,11 +31,14 @@
   - GitHubを用いた開発プロジェクトの管理
   - 開発チーム全体のサポート
   - 障害対応におけるリーダーシップ
-  - 1000万ダウンロードを超えるアプリの運用経験
+  - DAU1,000人未満のアプリを10,000人規模に変えた経験
+  - GoogleAdmobを用いて月間広告売上0円から300,000円に伸ばした経験
+  - 1000万ダウンロードを超える大規模アプリの運用経験
   - スタートアップ企業でのスピード感ある業務経験
+  - 新規サービスの立ち上げ経験
   - 協力会社との連携
   - GitHub/Slack/Discordを用いたスムーズなコミュニケーション
-  
+
 
 ## 職務経歴
 ### クルージュ株式会社
