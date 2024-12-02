@@ -21,6 +21,7 @@
     - AWS Cognito/Amplifyを用いたログイン機能の開発経験
     - SkyWay（WebRTC）を用いた通話機能の開発経験
     - CallKit/PushKitを用いた通話機能の開発経験
+    - pay.jpを用いたクレジットカード決済機能の開発経験
     - CocoaPods、Swift Package Managerを用いたライブラリ管理の経験
     - Alamofireを用いたAPI通信の経験
     - iOS標準ライブラリを用いたAPI通信の経験
@@ -62,6 +63,7 @@
   - グループチャット機能の開発
   - 自動マッチング機能の開発
   - タイムライン機能の開発
+  - pay.jpを用いたクレジットカード決済機能の開発
   - 生成AIを用いたAI占い機能の開発
   - GoogleAdmobのメディエーションを用いた広告機能の開発
 - その他
